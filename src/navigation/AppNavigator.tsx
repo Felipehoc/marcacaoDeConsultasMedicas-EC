@@ -84,4 +84,4 @@ export const AppNavigator: React.FC = () => {
       </Stack.Navigator>
     </NavigationContainer>
   );
-};
+}; 
